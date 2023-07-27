@@ -26,7 +26,7 @@ else:
 			"clear"
 	)
 
-print("▶ Follow channel gw dulu")
+print("▶ Follow Instagram gw dulu")
 os.system("xdg-open https://instagram.com/only.fgr444")
 if "linux" in sys.platform.lower():
 	os.system(
