@@ -20,6 +20,8 @@ $ pip install pystyle
 
 $ pip install keyboard
 
+$ git clone https://github.com/FGRXD/tiktokview
+
 $ cd tiktokview
 
 $ python bot.py (enter)
